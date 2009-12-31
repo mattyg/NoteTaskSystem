@@ -4,9 +4,8 @@
 	
 	//intended to be run on geektool or similar programs,
 		//set geektool to run this every second
+	include '../notetasksystem.php';
 		
-	$tasksfolder = '/Users/matt/Documents/notes/tasks/';
-	
 	$tasks = exec('cat $tasksfolder*');
 	$tasksfilenames[] = opendir($tasksfolder);
 	

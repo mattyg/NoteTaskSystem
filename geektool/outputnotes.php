@@ -2,8 +2,7 @@
 <?php
 	//intended to be run on geektool or similar programs,
 		//set geektool to run this every second
-		
-	$notesfolder = '/Users/matt/Documents/notes/notes/';
+	include '../notetasksystem.php';
 	
 	$notes = exec('cat $notesfolder*');
 	$notesfilenames[] = opendir($notesfolder);
