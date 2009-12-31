@@ -15,10 +15,10 @@ Syntax
 ---
 
 To add a note, titled with the date and time:
-'note: this is a note;' or 'n: this is a note;'
+'n: this is a note;'
 
 To add a note with a custom title:
-'note title: this is a note titled title;' or 'n title: this is a note title title;'
+'n title: this is a note title title;'
 
 To add a todo item:
-'task: this is a task;' or 't: this is a task;'
+'t: this is a task;'
