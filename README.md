@@ -9,7 +9,7 @@ It is designed to be used in conjunction with any program to output scripts to t
 -Geektool (os x)
 -Conky (GNU/Linux)
 
-'/inputfile.php' should be set to open in a text editor with a keystoke. I use option-command-delete, and set the keystroke with Spark.
+'/watchfile.php' should be set to open in a text editor with a keystoke. I use option-command-delete, and set the keystroke with Spark.
 
 Syntax
 ---
